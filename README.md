@@ -1,17 +1,17 @@
-## Getting Started
+# Simulando Uma Conta Bancária Através Do Terminal/Console
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Desafio do Bootcamp Santander 2024 - Backend com Java
+### Autora:
+[Beatriz Miranda Aguiar](https://github.com/BeatrizMirandaAguiar)
 
-## Folder Structure
+## Estrutura do projeto
 
-The workspace contains two folders by default, where:
+O projeto conta com duas classes, onde:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- ContaTerminal: classe principal que sustenta as operações requisitadas
+- Conta: classe que especifica os atributos de conta
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Optei por fazer uma classe Conta visando uma melhor organização das características de conta e para facilitar caso o projeto tenha updates futuros com mais funcionalidades.
 
 ## Dependency Management
 
