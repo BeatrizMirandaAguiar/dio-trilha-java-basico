@@ -1,7 +1,8 @@
 # Simulando Uma Conta Bancária Através Do Terminal/Console
 
 Desafio do Bootcamp Santander 2024 - Backend com Java da [DIO](https://www.dio.me/en)
-\nPara saber mais informações sobre o desafio, acesse https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe
+
+Para saber mais informações sobre o desafio, acesse https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe
 ### Autora:
 [Beatriz Miranda Aguiar](https://github.com/BeatrizMirandaAguiar)
 
