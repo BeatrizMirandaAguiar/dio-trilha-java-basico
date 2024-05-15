@@ -8,8 +8,8 @@ Desafio do Bootcamp Santander 2024 - Backend com Java
 
 O projeto conta com duas classes, onde:
 
-- ContaTerminal: classe principal que sustenta as operações requisitadas
-- Conta: classe que especifica os atributos de conta
+- `ContaTerminal`: classe principal que sustenta as operações requisitadas
+- `Conta`: classe que especifica os atributos de conta
 
 Optei por fazer uma classe Conta visando uma melhor organização das características de conta e para facilitar caso o projeto tenha updates futuros com mais funcionalidades.
 
